@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binbin.Combo", "Binbin.Combo\Binbin.Combo.csproj", "{1A7EC209-7388-4C73-8E96-D4F7770B9C2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample.Binbin.Combo", "Sample.Binbin.Combo\Sample.Binbin.Combo.csproj", "{3DC49D4C-CED7-4DD0-B617-CD60E4CFB433}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A7EC209-7388-4C73-8E96-D4F7770B9C2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A7EC209-7388-4C73-8E96-D4F7770B9C2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A7EC209-7388-4C73-8E96-D4F7770B9C2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A7EC209-7388-4C73-8E96-D4F7770B9C2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DC49D4C-CED7-4DD0-B617-CD60E4CFB433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DC49D4C-CED7-4DD0-B617-CD60E4CFB433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DC49D4C-CED7-4DD0-B617-CD60E4CFB433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DC49D4C-CED7-4DD0-B617-CD60E4CFB433}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

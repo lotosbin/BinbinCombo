@@ -4,3 +4,11 @@ obj
 
 # mstest test results
 TestResults
+
+# Resharper
+_ReSharper.BinbinCombo
+
+# Visual Studio Upgrade
+_UpgradeReport_Files
+Backup
+UpgradeLog*.*
